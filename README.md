@@ -15,6 +15,9 @@ SP500_Companies.ipynb is ipython code on Google Colab for Data Extraction and Da
 
 All of the above code have generated the outputs to a google drive.
 
+R code:
+COVID_ANALYSIS_R.rar
+
 Tables:
 Population.csv: the population data of the US by state
 
